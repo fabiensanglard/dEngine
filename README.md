@@ -17,6 +17,9 @@ Details :
 For details about optimizations and technical choices, check the page of the author:
 
 http://fabiensanglard.net/dEngine/index.php
+
 http://fabiensanglard.net/dEngineSourceCodeRelease/index.php
 
+Enjoy,
 
+Fabien Sanglard
