@@ -1,0 +1,30 @@
+map	
+{
+	filename: data/map/demo.map
+}
+
+light
+{
+	position : 40 110 -200
+   lookAt   : 0 80 0
+   upVector : 1 0 0
+   fov      : 70
+   ambientColor  : 0.5 0.5 0.5
+   diffuseColor  : 0.8 0.8 0.8
+   speculaColor  : 1 1 1
+   constantAttenuation: 1
+   linearAttenuation: 0
+   attachedToCamera: 0
+   
+   #Fixed pipeline
+   
+   #ambientColor  : 0.2 0.2 0.2
+   #diffuseColor  : 0.4 0.4 0.4 
+   #speculaColor  : 1 1 1
+   #constantAttenuation: 1
+   #linearAttenuation: 0.002
+   #attachedToCamera: 1
+	
+}
+
+

@@ -1,0 +1,55 @@
+
+matrix
+{
+	-1  0 0 0
+	0  1 0 0
+	0  0 -1 0
+	0  0 0 1
+}
+
+entities OBJ
+{
+	model	data/models/misc/FRA200F.obj
+}
+
+
+matrix
+{
+	1  0 0 -50
+	0  1 0 0
+	0  0 1 0
+	0  0 0 1
+}
+
+entities OBJ
+{
+	model	data/models/misc/ikal.obj
+}
+
+
+matrix
+{
+	1  0 0 50
+	0  1 0 0
+	0  0 1 0
+	0  0 0 1
+}
+
+entities OBJ
+{
+	model	data/models/misc/rga.obj
+}
+
+matrix
+{
+	1  0 0 0
+	0   1 0 0
+	0   0 1 -500
+	0   0 0 1
+}
+
+entities OBJ
+{
+	model	data/models/misc/FRA200L.obj	
+}
+	

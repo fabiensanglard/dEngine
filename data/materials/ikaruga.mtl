@@ -1,0 +1,23 @@
+newmtl textures/object/ikal 
+map_Kd data/textures/object/ikal_d.png
+BumpKd data/textures/object/default_local.png 
+SpecKd data/textures/object/default_s.png
+illum 10
+
+newmtl textures/object/rga 
+map_Kd data/textures/object/rga_d.png
+BumpKd data/textures/object/rga_local.png 
+SpecKd data/textures/object/rga_s.png
+illum 10
+
+newmtl textures/object/FRA200L 
+map_Kd data/textures/object/FRA200L_d.png
+BumpKd data/textures/object/FRA200L_local.png 
+SpecKd data/textures/object/FRA200L_s.png
+illum 10
+
+newmtl textures/object/FRA200F 
+map_Kd data/textures/object/FRA200F_d.png
+BumpKd data/textures/object/FRA200F_local.png 
+SpecKd data/textures/object/FRA200F_s.png
+illum 10

@@ -1,0 +1,12 @@
+newmtl models/graphics/hellknightSkin
+map_Kd data/textures/monsters/hellknight.png
+BumpKd data/textures/monsters/hellknight_local.png
+illum 28
+
+newmtl models/graphics/hellbaronSkin
+map_Kd data/textures/monsters/hellBaronDiff.png
+BumpKd data/textures/monsters/hellknight_local.png
+SpecKd data/textures/monsters/hellBaronSpec.png
+illum 28
+
+

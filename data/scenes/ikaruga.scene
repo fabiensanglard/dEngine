@@ -1,0 +1,21 @@
+map	
+{
+	filename: data/map/ikaruga_level5.map
+}
+
+light
+{
+	position : 300 300 0
+   lookAt   : 0 0 0
+   upVector : 1 0 0
+   fov      : 70
+   ambientColor  : 0.5 0.5 0.5
+   diffuseColor  : 0.8 0.8 0.8
+   speculaColor  : 1 1 1
+   constantAttenuation: 1
+   linearAttenuation: 0
+   attachedToCamera: 0
+   
+}
+
+

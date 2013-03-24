@@ -1,0 +1,134 @@
+newmtl textures/alphalabs/a_enwall13c
+map_Kd data/textures/alphalabs/a_enwall13c.png
+BumpKd data/textures/base_wall/gotbflat1_local.png
+
+newmtl textures/alphalabs/a_enwall20d
+map_Kd data/textures/alphalabs/a_enwall20d.png
+BumpKd data/textures/base_wall/gotbflat1_local.png
+
+newmtl textures/base_door/jumbodoor
+map_Kd data/textures/base_door/jumbodoor.png
+BumpKd data/textures/base_door/jumbodoor_local.png
+SpecKd data/textures/base_door/jumbodoor_s.png
+illum 1
+
+newmtl textures/base_light/gottubelight_off
+map_Kd data/textures/base_light/gottubelight_off_d.png
+BumpKd data/textures/base_light/gottubelight_local.png
+
+newmtl textures/base_wall/gotbflat1
+map_Kd data/textures/base_wall/gotbflat1.png
+BumpKd data/textures/base_wall/gotbflat1_local.png
+
+newmtl textures/base_floor/sflpanel7
+map_Kd data/textures/base_floor/sflpanel7.png
+BumpKd data/textures/base_floor/sflpanel7_local.png
+
+newmtl textures/base_floor/sflgrate4
+map_Kd data/textures/base_floor/sflgrate4_s.png
+BumpKd data/textures/base_floor/sflgrate4_local.png
+
+newmtl textures/base_floor/sflgrate2a
+map_Kd data/textures/base_floor/sflgrate2_s.png
+BumpKd data/textures/base_floor/sflgrate2_local.png
+
+newmtl textures/base_floor/grill_floor
+map_Kd data/textures/base_floor/grill_floor_d.png
+BumpKd data/textures/base_floor/grill_floor_local.png
+
+newmtl textures/base_floor/floorvent02
+map_Kd data/textures/base_floor/floorvent02.png
+BumpKd data/textures/base_wall/gotbflat1_local.png
+
+newmtl textures/base_wall/sopanel20_shadow
+map_Kd data/textures/base_wall/sopanel20_d.png
+BumpKd data/textures/base_wall/gotbflat1_local.png
+
+
+
+
+newmtl textures/base_wall/sopanel20
+map_Kd data/textures/base_wall/sopanel20_d.png
+BumpKd data/textures/base_wall/sopanel20_local.png
+hasAlpha 1
+
+newmtl textures/base_wall/gotbwall2
+map_Kd data/textures/base_wall/gotbwall2_d.png
+BumpKd data/textures/base_wall/gotbwall2_local.png
+
+newmtl textures/base_wall/gotendo1
+map_Kd data/textures/base_wall/gotendo1_d.png
+BumpKd data/textures/base_wall/gotendo1_local.png
+
+newmtl textures/base_wall/gotcgate2
+map_Kd data/textures/base_wall/gotcgate2_d.png
+BumpKd data/textures/base_wall/gotcgate2_local.png
+
+newmtl textures/base_wall/gotbwall1
+map_Kd data/textures/base_wall/gotbwall1_d.png
+BumpKd data/textures/base_wall/gotbwall1_local.png
+
+newmtl textures/base_wall/gotbpanel2light
+map_Kd data/textures/base_wall/gotbpanel2light_d.png
+BumpKd data/textures/base_wall/gotbpanel2light_local.png
+
+newmtl textures/base_wall/gotcgate
+map_Kd data/textures/base_wall/gotcgate_d.png
+BumpKd data/textures/base_wall/gotcgate_local.png
+
+newmtl textures/base_wall/gotbpanel2
+map_Kd data/textures/base_wall/gotbpanel2_d.png
+BumpKd data/textures/base_wall/gotbpanel2_local.png
+
+newmtl textures/object/paperdec3
+map_Kd data/textures/object/paperdec3_d.png
+BumpKd data/textures/base_wall/gotbflat1_local.png
+
+newmtl textures/object/gotcablecage
+map_Kd data/textures/object/gotcablecage_d.png
+BumpKd data/textures/object/gotcablecage_local.png
+
+newmtl textures/object/hoser6
+map_Kd data/textures/object/hoser6_d.png
+BumpKd data/textures/object/hoser5_local.png
+
+newmtl textures/object/hoser5
+map_Kd data/textures/object/hoser5_d.png
+BumpKd data/textures/object/hoser5_local.png
+
+newmtl textures/washroom/rffloorgrate01
+map_Kd data/textures/washroom/rffloorgrate01.png
+BumpKd data/textures/washroom/rffloorgrate01_local.png
+hasAlpha 1
+
+newmtl textures/base_trim/gotsilvercol1
+map_Kd data/textures/base_trim/gotsilvercol1_d.png
+BumpKd data/textures/base_trim/gotsilvercol1_local.png
+
+newmtl textures/base_trim/stesilverswatch
+map_Kd data/textures/base_trim/stesilverswatch_d.png
+BumpKd data/textures/base_trim/stesilverswatch_local.png
+
+newmtl textures/base_light/striplight3
+map_Kd data/textures/base_light/striplight3_d.png
+BumpKd data/textures/base_light/striplight3_local.png
+
+newmtl textures/alphalabs/a_lfwall14g4
+map_Kd data/textures/alphalabs/a_lfwall14g4.png
+BumpKd data/textures/base_wall/gotcgate2_local.png
+
+newmtl textures/misc/rustyCylinder
+map_Kd data/textures/base_floor/rustymetal01_diff.png
+BumpKd data/textures/base_floor/rustymetal01_norm.png
+
+newmtl textures/misc/rustyCylinder2
+map_Kd data/textures/base_floor/rustymetal_diff.png
+BumpKd data/textures/base_floor/rustymetal_norm.png
+SpecKd data/textures/base_floor/rustymetal_spec.png
+illum 20
+
+newmtl textures/base_floor/gothallpanel2
+map_Kd data/textures/base_floor/gothallpanel2_d.png
+BumpKd data/textures/base_floor/gothallpanel2_local.png
+
+

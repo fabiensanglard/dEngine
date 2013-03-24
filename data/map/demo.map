@@ -1,0 +1,59 @@
+matrix
+{
+	1 0 0 150
+	0 1 0 080
+	0 0 1 130
+	0 0 0 1
+}
+
+entities OBJ
+{
+	model	data/models/map/a_enwall13c.obj
+	model	data/models/map/a_enwall20d.obj
+	model	data/models/map/a_lfwall14g4.obj
+	model	data/models/map/floorvent02.obj
+	model	data/models/map/gotbflat1.obj
+	model	data/models/map/gotbpanel2.obj
+	model	data/models/map/gotbpanel2light.obj
+	model	data/models/map/gotbwall1.obj
+	model	data/models/map/gotbwall2.obj
+	model	data/models/map/gotcablecage.obj
+	model	data/models/map/gotcgate.obj
+	model	data/models/map/gotcgate2.obj
+	model	data/models/map/gotendo1.obj
+	model	data/models/map/gothallpanel2.obj
+	model	data/models/map/gotsilvercol1.obj
+	model	data/models/map/gottubelight_off.obj
+	model	data/models/map/grill_floor.obj
+	model	data/models/map/hoser5.obj
+	model	data/models/map/hoser6.obj
+	model	data/models/map/paperdec3.obj
+	model	data/models/map/rffloorgrate01.obj
+	model	data/models/map/sflgrate2a.obj
+	model	data/models/map/sflgrate4.obj
+	model	data/models/map/sflpanel7.obj
+	model	data/models/map/sopanel20.obj
+	model	data/models/map/sopanel20_shadow.obj
+	model	data/models/map/stesilverswatch.obj
+	model	data/models/map/striplight3.obj
+	model	data/models/map/jumbodoor.obj
+}
+
+matrix
+{
+	1  0 0 0
+	0  0 1 0
+	0 -1 0 0
+	0  0 0 1
+}
+
+entities MD5
+{
+
+	#model  data/models/monsters/hellKnight/hellbaron.md5mesh
+	model	data/models/monsters/hellKnight/hellknight.pvr.2bpp.md5mesh
+	
+	anim	data/models/monsters/hellKnight/hellknight_idle2.md5anim
+}
+
+

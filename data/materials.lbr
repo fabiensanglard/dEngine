@@ -1,0 +1,13 @@
+highQuality
+{
+	data/materials/level1.mtl
+	data/materials/hellknight.mtl
+	data/materials/ikaruga.mtl
+}
+
+lowQuality
+{
+	data/materials/level1_pvr.mtl
+	data/materials/hellknight_pvr.mtl
+	data/materials/ikaruga_pvr.mtl
+}

@@ -1,0 +1,123 @@
+newmtl textures/alphalabs/a_enwall13c
+map_Kd data/texturesPVR/alphalabs/a_enwall13c.png.pvr
+BumpKd data/texturesPVR/base_wall/gotbflat1_local.png.pvr
+
+newmtl textures/alphalabs/a_enwall20d
+map_Kd data/texturesPVR/alphalabs/a_enwall20d.png.pvr
+BumpKd data/texturesPVR/base_wall/gotbflat1_local.png.pvr
+
+newmtl textures/base_door/jumbodoor
+map_Kd data/texturesPVR/base_door/jumbodoor.png.pvr
+BumpKd data/texturesPVR/base_door/jumbodoor_local.png.pvr
+SpecKd data/textures/base_door/jumbodoor_s.png.pvr
+illum 20
+
+newmtl textures/base_light/gottubelight_off
+map_Kd data/texturesPVR/base_light/gottubelight_off_d.png.pvr
+BumpKd data/texturesPVR/base_light/gottubelight_local.png.pvr
+
+newmtl textures/base_wall/gotbflat1
+map_Kd data/texturesPVR/base_wall/gotbflat1.png.pvr
+BumpKd data/texturesPVR/base_wall/gotbflat1_local.png.pvr
+
+newmtl textures/base_floor/sflpanel7
+map_Kd data/texturesPVR/base_floor/sflpanel7.png.pvr
+BumpKd data/texturesPVR/base_floor/sflpanel7_local.png.pvr
+
+newmtl textures/base_floor/sflgrate4
+map_Kd data/texturesPVR/base_floor/sflgrate4_s.png.pvr
+BumpKd data/texturesPVR/base_floor/sflgrate4_local.png.pvr
+
+newmtl textures/base_floor/sflgrate2a
+map_Kd data/texturesPVR/base_floor/sflgrate2_s.png.pvr
+BumpKd data/texturesPVR/base_floor/sflgrate2_local.png.pvr
+
+newmtl textures/base_floor/grill_floor
+map_Kd data/texturesPVR/base_floor/grill_floor_d.png.pvr
+BumpKd data/texturesPVR/base_floor/grill_floor_local.png.pvr
+
+newmtl textures/base_floor/floorvent02
+map_Kd data/texturesPVR/base_floor/floorvent02.png.pvr
+BumpKd data/texturesPVR/base_wall/gotbflat1_local.png.pvr
+
+newmtl textures/base_floor/gothallpanel2
+map_Kd data/texturesPVR/base_floor/gothallpanel2_d.png.pvr
+BumpKd data/texturesPVR/base_floor/gothallpanel2_local.png.pvr
+
+newmtl textures/base_wall/sopanel20_shadow
+map_Kd data/texturesPVR/base_wall/sopanel20_d.png.pvr
+BumpKd data/texturesPVR/base_wall/gotbflat1_local.png.pvr
+
+newmtl textures/base_wall/sopanel20
+map_Kd data/texturesPVR/base_wall/sopanel20_d.png.pvr
+BumpKd data/texturesPVR/base_wall/sopanel20_local.png.pvr
+
+newmtl textures/base_wall/gotbwall2
+map_Kd data/texturesPVR/base_wall/gotbwall2_d.png.pvr
+BumpKd data/texturesPVR/base_wall/gotbwall2_local.png.pvr
+
+newmtl textures/base_wall/gotendo1
+map_Kd data/texturesPVR/base_wall/gotendo1_d.png.pvr
+BumpKd data/texturesPVR/base_wall/gotendo1_local.png.pvr
+
+newmtl textures/base_wall/gotcgate2
+map_Kd data/texturesPVR/base_wall/gotcgate2_d.png.pvr
+BumpKd data/texturesPVR/base_wall/gotcgate2_local.png.pvr
+
+newmtl textures/base_wall/gotbwall1
+map_Kd data/texturesPVR/base_wall/gotbwall1_d.png.pvr
+BumpKd data/texturesPVR/base_wall/gotbwall1_local.png.pvr
+
+newmtl textures/base_wall/gotbpanel2light
+map_Kd data/texturesPVR/base_wall/gotbpanel2light_d.png.pvr
+BumpKd data/texturesPVR/base_wall/gotbpanel2light_local.png.pvr
+
+newmtl textures/base_wall/gotcgate
+map_Kd data/texturesPVR/base_wall/gotcgate_d.png.pvr
+BumpKd data/texturesPVR/base_wall/gotcgate_local.png.pvr
+
+newmtl textures/base_wall/gotbpanel2
+map_Kd data/texturesPVR/base_wall/gotbpanel2_d.png.pvr
+BumpKd data/texturesPVR/base_wall/gotbpanel2_local.png.pvr
+
+newmtl textures/object/paperdec3
+map_Kd data/texturesPVR/object/paperdec3_d.png.pvr
+BumpKd data/texturesPVR/base_wall/gotbflat1_local.png.pvr
+
+newmtl textures/object/gotcablecage
+map_Kd data/texturesPVR/object/gotcablecage_d.png.pvr
+BumpKd data/texturesPVR/object/gotcablecage_local.png.pvr
+
+newmtl textures/object/hoser6
+map_Kd data/texturesPVR/object/hoser6_d.png.pvr
+BumpKd data/texturesPVR/object/hoser5_local.png.pvr
+
+newmtl textures/object/hoser5
+map_Kd data/texturesPVR/object/hoser5_d.png.pvr
+BumpKd data/texturesPVR/object/hoser5_local.png.pvr
+
+newmtl textures/washroom/rffloorgrate01
+map_Kd data/texturesPVR/washroom/rffloorgrate01.png.pvr
+BumpKd data/texturesPVR/washroom/rffloorgrate01_local.png.pvr
+
+newmtl textures/base_trim/gotsilvercol1
+map_Kd data/texturesPVR/base_trim/gotsilvercol1_d.png.pvr
+BumpKd data/texturesPVR/base_trim/gotsilvercol1_local.png.pvr
+
+newmtl textures/base_trim/stesilverswatch
+map_Kd data/texturesPVR/base_trim/stesilverswatch_d.png.pvr
+BumpKd data/texturesPVR/base_trim/stesilverswatch_local.png.pvr
+
+newmtl textures/base_light/striplight3
+map_Kd data/texturesPVR/base_light/striplight3_d.png.pvr
+BumpKd data/texturesPVR/base_light/striplight3_local.png.pvr
+
+newmtl textures/alphalabs/a_lfwall14g4
+map_Kd data/texturesPVR/alphalabs/a_lfwall14g4.png.pvr
+BumpKd data/texturesPVR/base_wall/gotcgate2_local.png.pvr
+
+newmtl textures/misc/rustyCylinder2
+map_Kd data/textures/base_floor/rustymetal_diff.png.pvr
+BumpKd data/textures/base_floor/rustymetal_norm.png.pvr
+SpecKd data/textures/base_floor/rustymetal_spec.png.pvr
+illum 20
